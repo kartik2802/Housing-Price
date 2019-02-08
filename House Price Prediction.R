@@ -1,0 +1,6 @@
+data <- read.csv("~/Downloads/house-prices-advanced-regression-techniques/data.csv", header=FALSE)
+View(data)
+summary(data)
+head(data)
+str(data)
+dim(data)
