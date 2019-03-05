@@ -1,4 +1,4 @@
-# Housing-Price
+# HOUSE PRICE PREDICTION
 Predicting final price of a given property :
 
 The dataset includes 79 explanatory variables describing (almost) every aspect of residential homes in Ames and Iowa. The objective is to predict the final price of each home using predictive models.
