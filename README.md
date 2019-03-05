@@ -87,7 +87,7 @@ Here's a brief description of the data fields
 
 
 
- QUESTIONS ASKED TO THE DATA :  
+ # QUESTIONS ASKED TO THE DATA :  
  • Which scales apply to our data set?  
 • How is the target variable distributed ?  
 • How are the variables correlated ?  
